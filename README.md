@@ -1,1 +1,2 @@
-# Clarifai-Hackathon
+# Reusable Angular Template
+	valuable modules  
